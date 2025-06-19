@@ -102,16 +102,30 @@ This image is a 28×28 matrix of random values visualized as an image, often use
 Why do we use this specifically?
 
 To verify image data shape
- → Are the images of shape [batch_size, 1, 28, 28]? (for grayscale)
+
+ → Are the images of shape [batch_size, 1, 28, 28]? (for grayscale)
 
 To inspect labels
- → Are the labels aligned correctly?
- → Do they contain 5 integers per image (indicating 5 characters)?
+
+ → Are the labels aligned correctly?
+
+
+ 
+ → Do they contain 5 integers per image (indicating 5 characters)?
 
 Debugging
- → Check if preprocessing worked (e.g., normalization, resizing)
- → Confirm whether images and labels are paired correctly
- → Useful before training or evaluating your model
+ 
+
+ 
+ → Check if preprocessing worked (e.g., normalization, resizing)
+
+
+ 
+ → Confirm whether images and labels are paired correctly
+ 
+ 
+ 
+ → Useful before training or evaluating your model
 
 
 
