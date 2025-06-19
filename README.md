@@ -130,3 +130,6 @@ Debugging
 
 
 
+FAQ: [Notion File](https://github.com/user-attachments/files/20825578/FAQ.pdf)
+
+
