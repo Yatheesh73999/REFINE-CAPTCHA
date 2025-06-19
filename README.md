@@ -20,7 +20,7 @@ This project develops a system that automatically solves CAPTCHA images using a 
 * Results & Observations
 * Conclusion
 
-## 📖 Project Overview
+##  Project Overview
 CAPTCHAs are widely used for distinguishing humans from bots, often containing distorted characters. This project builds a deep learning pipeline to solve such CAPTCHA images automatically. It involves generating synthetic datasets, preprocessing images, training multiple models, and comparing accuracy results.
 
 ##  Dataset Generation
